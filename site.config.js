@@ -4,10 +4,10 @@ const CONFIG = {
     name: "EquivalentFlow",
     image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    bio: "An Astrophysics blog",
+    email: "",
+    linkedin: "",
+    github: "",
     instagram: "",
   },
   projects: [
