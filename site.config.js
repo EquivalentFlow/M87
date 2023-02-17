@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Philosophy of Astrophysics Repository",
     image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "This page stores brief reviews of relevant and recent papers in the Philosophy of Astrophysics",
+    bio: "This page hosts brief reviews of relevant and recent papers in the Philosophy of Astrophysics",
     email: "try1",
     linkedin: "",
     github: "",
