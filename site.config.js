@@ -12,8 +12,8 @@ const CONFIG = {
   },
 projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `PhilSci Archive`,
+      href: "http://philsci-archive.pitt.edu/view/subjects/astrophysics.html",
     },
   ],
   // blog setting (required)
