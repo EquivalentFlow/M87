@@ -51,7 +51,7 @@ projects: [
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "morethanmin/morethan-log",
       "issue-term": "og:title",
