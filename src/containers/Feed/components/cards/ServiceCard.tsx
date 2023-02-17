@@ -2,7 +2,9 @@ import CONFIG from "site.config"
 import React from "react"
 import { AiFillCodeSandboxCircle } from "react-icons/ai"
 
-.hidden { display:none; }
+<style type="text/css">
+    .hidden { display:none; }
+</style>
 
 const ServiceCard: React.FC = () => {
   if (!CONFIG.projects) return null
