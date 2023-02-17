@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "M87",
+    name: "Philosophy of Astrophysics Repository",
     image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Philosophy of Astrophysics Repository",
-    bio: "M87 stores brief reviews of relevant and recent papers in the Philosophy of Astrophysics",
+    role: "",
+    bio: "This page stores brief reviews of relevant and recent papers in the Philosophy of Astrophysics",
     email: "try1",
     linkedin: "",
     github: "",
