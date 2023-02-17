@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "EquivalentFlow",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "I develop everything using node.",
     email: "morethanmin.dev@gmail.com",
