@@ -12,8 +12,7 @@ const CONFIG = {
   },
 projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      
     },
   ],
   // blog setting (required)
