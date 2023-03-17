@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "Brief reviews of relevant papers in the Philosophy of Astrophysics and related topics",
-    email: "try1",
+    email: "",
     linkedin: "",
     github: "",
     instagram: "",
