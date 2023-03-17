@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/m87-full_jpg.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "Brief reviews of relevant papers in the Philosophy of Astrophysics and related topics",
-    Email: "try1",
+    email: "try1",
     linkedin: "",
     github: "",
     instagram: "",
@@ -25,7 +25,7 @@ projects: [
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: // If leave this empty, current year will be used.
+  since: , // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
