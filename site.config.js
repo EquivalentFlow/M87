@@ -15,10 +15,6 @@ projects: [
       name: `PhilSci Archive`,
       href: "http://philsci-archive.pitt.edu/view/subjects/astrophysics.html",
     },
-  {
-    name: `Book on Philosophy of Astrophysics`,
-    href: "https://link.springer.com/book/9783031266171",
-  },
   ],
   // blog setting (required)
   blog: {
