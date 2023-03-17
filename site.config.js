@@ -12,8 +12,8 @@ const CONFIG = {
   },
 projects: [
     {
-      name: `PhilSci Archive`,
-      href: "http://philsci-archive.pitt.edu/view/subjects/astrophysics.html",
+      name: `Books and Papers`,
+      href: "https://linktr.ee/m87space?utm_source=linktree_admin_share",
     },
   ],
   // blog setting (required)
