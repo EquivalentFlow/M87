@@ -1,6 +1,6 @@
 import CONFIG from "site.config"
 import React from "react"
-import { BiArchive } from "react-icons/ai"
+import { BiArchive } from "react-icons/bi"
 
 const ServiceCard: React.FC = () => {
   if (!CONFIG.projects) return null
