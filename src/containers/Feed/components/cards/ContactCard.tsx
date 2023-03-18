@@ -1,10 +1,10 @@
 import CONFIG from "site.config"
 import React from "react"
 import {
-  AiOutlineInstagram,
-  AiOutlineGithub,
+  BiAbacus,
+  BiAlignJustify,
   BiMailSend,
-  AiFillLinkedin,
+  BiAlignMiddle,
 } from "react-icons/bi"
 
 const ContactCard: React.FC = () => {
@@ -19,7 +19,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
             className="p-3 hover:bg-gray-100 dark:hover:bg-zinc-700 rounded-2xl cursor-pointer flex items-center gap-3 text-gray-500 dark:text-white hover:text-black dark:hover:text-white "
           >
-            <AiOutlineGithub className="text-2xl" />
+            <BiAlignJustify className="text-2xl" />
             <div className="text-sm">github</div>
           </a>
         )}
@@ -30,7 +30,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
             className="p-3 hover:bg-gray-100 dark:hover:bg-zinc-700 rounded-2xl cursor-pointer flex items-center gap-3 text-gray-500 dark:text-white hover:text-black dark:hover:text-white"
           >
-            <AiOutlineInstagram className="text-2xl" />
+            <BiAbacus className="text-2xl" />
             <div className="text-sm">instagram</div>
           </a>
         )}
@@ -52,7 +52,7 @@ const ContactCard: React.FC = () => {
             target="_blank"
             className="  overflow-hidden p-3 hover:bg-gray-100 dark:hover:bg-zinc-700 rounded-2xl cursor-pointer flex items-center gap-3 text-gray-500 dark:text-white hover:text-black dark:hover:text-white"
           >
-            <AiFillLinkedin className="text-2xl flex-shrink-0" />
+            <BiAlignMiddle className="text-2xl flex-shrink-0" />
             <div className="text-sm">linkedin</div>
           </a>
         )}
