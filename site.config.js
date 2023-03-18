@@ -12,7 +12,7 @@ const CONFIG = {
   },
 projects: [
     {
-      name: `Additional Resources`,
+      name: `Resources`,
       href: "https://linktr.ee/m87space?utm_source=linktree_admin_share",
     },
   ],
