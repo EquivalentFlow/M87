@@ -6,7 +6,7 @@ const ServiceCard: React.FC = () => {
   if (!CONFIG.projects) return null
   return (
     <>
-      <div className="p-1 mb-3 dark:text-white"></div>
+      <div className="p-1 mb-1 dark:text-white"></div>
             <ul className="rounded-2xl mb-3 bg-white dark:bg-zinc-700 p-1 flex flex-col">
         <a
           href={`${CONFIG.projects[0].href}`}
