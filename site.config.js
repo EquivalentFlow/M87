@@ -10,6 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
+  projects: [
+    {
+      name: `Resources`,
+      href: "https://linktr.ee/m87space?utm_source=linktree_admin_share",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "M87",
