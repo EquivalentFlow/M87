@@ -10,12 +10,7 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-projects: [
-    {
-      name: `Resources`,
-      href: "https://linktr.ee/m87space?utm_source=linktree_admin_share",
-    },
-  ],
+
   // blog setting (required)
   blog: {
     title: "M87",
@@ -23,7 +18,7 @@ projects: [
     theme: "light", // ['light', 'dark', 'auto']
   },
 
-  // CONFIG configration (required)
+  // CONFIG configuration (required)
   link: "https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
@@ -66,5 +61,6 @@ projects: [
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
-}
-module.exports = CONFIG
+};
+
+module.exports = CONFIG;
